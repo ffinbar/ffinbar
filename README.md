@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fin Hinchcliffe
+# 👋 Hi, I'm Fin
 
 🎓 Software Engineering student at [Macquarie University](https://www.mq.edu.au/), based in Sydney.
 
