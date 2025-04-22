@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Fin Hinchcliffe
 
-<!--
-**ffinbar/ffinbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at [Macquarie University](https://www.mq.edu.au/), based in Sydney.
 
-Here are some ideas to get you started:
+🧠 Passionate about creative coding, generative art, and exploring the intersection of technology and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Tools:** Git, VSCode, Blender
+- **Currently Exploring:** WebGL, Rust, OpenAI API
+
+---
+
+## 🚀 Projects
+
+- **[3jsfpsv2](https://github.com/ffinbar/3jsfpsv2):** A first-person 3D scene using Three.js and Cannon physics engine.
+- **[L00T2](https://github.com/ffinbar/L00T2):** An AI-powered trading card generator.
+- **[Airtist](https://github.com/ffinbar/Airtist):** Representing images as text, and using AI to create them.
+- **[planets3JS](https://github.com/ffinbar/planets3JS):** Explore a simulated solar system in Three.js.
+- **[static3JS](https://github.com/ffinbar/static3JS):** Serene soundscapes powered by Three.js.
+- **[wobbleBox](https://github.com/ffinbar/wobbleBox):** Physics-based interactive visuals.
+
+---
+
+## 📫 Connect with Me
+
+- **Website:** [finis.cool](https://finis.cool)
+- **Instagram:** [@fincliffe](https://instagram.com/fincliffe)
+
+---
+
