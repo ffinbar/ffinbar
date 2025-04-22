@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5824b032-2d44-4c7f-a84f-61b9aaf5f1ef)
+
+
 # 👋 Hi, I'm Fin
 
 🎓 Software Engineering student at [Macquarie University](https://www.mq.edu.au/), based in Sydney.
