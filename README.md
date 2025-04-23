@@ -8,8 +8,8 @@
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Tools:** Git, VSCode, Blender
+- **Languages:** JavaScript, HTML, CSS, Python, Java, C#, C++, SQL
+- **Tools:** Git, VSCode Node, JSON, REST APIs, Curl, Jira, Slack, Blender
 - **Currently Exploring:** WebGL, Rust, OpenAI API
 
 ---
